@@ -5,22 +5,24 @@ tags: [Dart, Javascript, Library, External Library]
 excerpt_separator: <!--more-->
 ---
 
-Hello, 
-Today I'm going to show you how to use external Javascript libraries in Dart.
-When you the capabilities of Dart is not enough for you, you may want to use external libraries or you just want to use a specific function of the Javascript. 
+Hello,  
+Today I'm going to show you how to use external Javascript libraries in Dart.  
+When you the capabilities of Dart is not enough for you, you may want to use external libraries or you just want to use a specific function of the Javascript.  
 At the end of this post, you will learn how to use external libraries and how to port them in Dart.
 <!--more-->
 
-Step 1)
+
 
 ## Step 1
 First of all, create a blank app using Webstorm's generator.
 After that, define the dependency in the pubspec.yaml as 
 
+
+```yaml
 dependencies:
   ...
   js: ^0.6.0
-
+```
 After that we update the dependency by using "pub get" command. If you are using Webstorm,
 it warns you to update.
 
@@ -85,9 +87,13 @@ void main() {
     log("Hello World");
     clear();
     error("Hello World is deleted but I'm alive");
-
-
+}
 ```
+> After that, run the code with the "webdev serve" command and open localhost:8080 in the browser, than open the console with F12.
+
+You will see something like that;
+
+![GitHub Logo](../assets/img/AngularExternalJS.png)
 
 
 
