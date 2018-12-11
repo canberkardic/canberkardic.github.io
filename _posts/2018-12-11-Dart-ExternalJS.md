@@ -91,9 +91,9 @@ void main() {
 ```
 > After that, run the code with the "webdev serve" command and open localhost:8080 in the browser, than open the console with F12.
 
-You will see something like that;
+You will see something like that;  
 
-![GitHub Logo](../assets/img/AngularExternalJS.png)
+![GitHub Logo](/assets/img/AngularExternalJS.png)
 
 
 
