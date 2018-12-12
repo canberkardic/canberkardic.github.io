@@ -93,7 +93,8 @@ void main() {
 
 You will see something like that;  
 
-![GitHub Logo](/assets/img/AngularExternalJS.png)
+![GitHub Logo](/assets/img/AngularExternalJS)
+
 
 
 
