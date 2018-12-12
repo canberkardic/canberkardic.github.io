@@ -2,7 +2,7 @@
 layout: page
 title : Portfolyo
 permalink: /portfolio
-subtitle: "Projects I am working on" 
+subtitle: "Üzerinde çalıştığım projeler" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
