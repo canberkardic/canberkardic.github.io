@@ -93,7 +93,7 @@ void main() {
 
 You will see something like that;  
 
-![Picture](../assets/img/AngularExternalJS)
+![Picture](/assets/img/AngularExternalJS.png)
 
 
 
