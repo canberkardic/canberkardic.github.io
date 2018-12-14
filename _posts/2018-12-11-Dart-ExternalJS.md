@@ -32,7 +32,7 @@ need a second file that is related with the external library.
 So, create a new dart file and name it as you wish.
 
 ## Step 2
-In that file, you need to use the annotations of Javascript to set 
+In that file, you need to use the @JS annotation to set 
 the context, say that we are dealing with console and since that file 
 will be a library you should use library declaration.
 
