@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 Hello,  
-Today I'm going to show you how to use external Javascript libraries in Dart.  
+In this post I'm going to show you how to use external Javascript libraries in Dart.  
 When you the capabilities of Dart is not enough for you, you may want to use external libraries or you just want to use a specific function of the Javascript.  
 At the end of this post, you will learn how to use external libraries and how to port them in Dart.
 <!--more-->
